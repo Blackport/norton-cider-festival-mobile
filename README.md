@@ -62,6 +62,6 @@ These dates are mostly guidelines at this stage and will be firmed up as time go
 
 ### Versions
 
-| Version # | Date | Major changes |
-| ------------- | ----------- |
-| 0.1.1 | Due 12/4/2017 | Initializing the project; installing the technology stacks |
+| Version | Date | Major changes |
+| ------- | ---- | ------------- |
+| 0.1.1 | Due 12/4/2017 | *Initializing the project; installing the technology stacks* |
