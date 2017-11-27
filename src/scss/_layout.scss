@@ -1,0 +1,9 @@
+// used on children of a fullHeightViewport parent to "pass along" the full page height ability
+.fullHeightPercentage {
+  height: 100%;
+}
+
+// used at top level element, usually a container
+.fullHeightViewport {
+  height: 100vh;
+}

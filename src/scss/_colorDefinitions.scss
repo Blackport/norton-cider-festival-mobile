@@ -1,0 +1,16 @@
+/*
+  This file sets the value of color variables ONLY.
+  These color variables are used in other Sass files to build classes with.
+
+  KEEP THIS FILE ALPHABETICAL BY VARIABLE NAME.
+*/
+
+// Example width colors
+$example-xs: lightgreen;
+$example-sm: yellow;
+$example-md: lightblue;
+$example-lg: lighten(orange, 20%);
+$example-xl: lighten(red, 30%);
+
+// NCF color theme
+$ncfRed: #BF1524; // this is the "official" red in the NCF logo; DO NOT CHANGE
