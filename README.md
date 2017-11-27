@@ -41,7 +41,7 @@ _Your age doesn't matter!_ If you are still in high school or college, that's gr
 
 All you need is some ability and a desire to work on a highly visible project. The NCF website was visited by over 6,000 unique visitors during the 29th annual Norton Cider Festival in 2017. If you desire to work with the most cutting edge code base and have a passion for beautiful code, you're in the right place. We're using [Visual Studio Code](https://code.visualstudio.com/) to hack our HTML with, [Bootstrap's 4Beta2 version](http://getbootstrap.com/) to handle mobile / multiple width handling, [Sass](http://sass-lang.com/) to pre-process our color themes, [PurifyCSS](https://github.com/webpack-contrib/purifycss-webpack) to cull any unused Bootstrap CSS, [Spritesmith](https://github.com/twolfson/gulp.spritesmith) to streamline images, the lightweight [KnockoutJS](http://knockoutjs.com/) for view model (MVVM) integration, and [Webpack](https://webpack.js.org/) to wrap it all up into one gorgeous, efficient package. All that gets deployed to the #1 cloud provider in the United States - [Amazon Web Services](https://aws.amazon.com/) - via a blazing fast [Cloudfront distro](https://aws.amazon.com/cloudfront/).
 
-See something you like? Then please introduce yourself on the [introduction discussion thread](https://github.com/GeekStocks/norton-cider-festival-mobile/issues/1)!
+See something you like? Then [create a free account on GitHub](https://github.com/join) and then introduce yourself on the [introduction discussion thread](https://github.com/GeekStocks/norton-cider-festival-mobile/issues/1)!
 
 All contributions are given to the project under the open source [MIT License](https://github.com/GeekStocks/norton-cider-festival-mobile/blob/master/LICENSE) and will likely be used by the Norton Cider Festival. When done, you can feel free to advertise your involvement on your resume. If you are a student and would like a letter of recommendation to further your tech career, you can provide a self-addressed, stamped envelope to David Walton and he will return a letter to you at the project's conclusion.
 
@@ -65,3 +65,4 @@ These dates are mostly guidelines at this stage and will be firmed up as time go
 | Version | Date | Major changes |
 | ------- | ---- | ------------- |
 | [0.1.1](http://dev.nortonciderfestival.com/0.1.1/) | 11/27/2017 | *Initialized the project; installed the main technology stacks; wrote target width example page.* |
+| 0.1.2 | **In progress** | *Add header for Extra Small.* |
