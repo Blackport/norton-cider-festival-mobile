@@ -43,21 +43,25 @@ All you need is some ability and a desire to work on a highly visible project. T
 
 See something you like? Then [create a free account on GitHub](https://github.com/join) and then introduce yourself on the [introduction discussion thread](https://github.com/GeekStocks/norton-cider-festival-mobile/issues/1)!
 
-All contributions are given to the project under the open source [MIT License](https://github.com/GeekStocks/norton-cider-festival-mobile/blob/master/LICENSE) and will likely be used by the Norton Cider Festival. When done, you can feel free to advertise your involvement on your resume. If you are a student and would like a letter of recommendation to further your tech career, you can provide a self-addressed, stamped envelope to David Walton and he will return a letter to you at the project's conclusion.
+All contributions are given to the project under the open source [MIT License](https://github.com/GeekStocks/norton-cider-festival-mobile/blob/master/LICENSE). When the project reaches GO LIVE, feel free to advertise your commits on your resume. If you are a student with at least 3 commits and would like a letter of recommendation to further your tech career, at the project's conclusion you can provide a self-addressed, stamped envelope to David Walton and he will return such a letter to you.
 
 ---
 
-### Important dates
+### Important project dates
 These dates are mostly guidelines at this stage and will be firmed up as time goes on.
 
 | Date      | Event |
 | ------------- | ----------- |
 | 11/24/2017 | *GitHub repository started* |
-| 2/5/2018 | *First draft presented to committee; progress report* | 
-| 5/5/2018 | *Second draft presented to committee; progress report* | 
-| 6/5/2018 | *Pre-launch presentation to committee; UI design freeze* | 
-| 7/2/2018 | *Code freeze* | 
+| 2/5/2018 | *First UI draft presented to committee; progress report* | 
+| 3/5/2018 | *Second UI draft presented to committee; progress report* | 
+| 4/5/2018 | *Final UI presentation to committee; UI design freeze* | 
+| 4/10/2018 | *Handoff to automation team for JSON / MVVM integration* | 
+| 5/5/2018 | *Functional presentation to committee; progress report* | 
+| 6/5/2018 | *Final presentation to committee; bug fixes only* | 
+| 7/2/2018 | *Code complete; hotfixes only* | 
 | 7/5/2018 | **GO LIVE!** |
+| 10/1/2018 | *Code freeze* |
 | 10/5-7/2018 | *2018 Norton Cider Festival* |
 
 ### Versions
