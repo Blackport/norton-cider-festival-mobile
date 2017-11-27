@@ -26,11 +26,11 @@ Individuals wishing to participate in the brainstorming process of the project a
 +   _All constructive criticism is welcome as long as it is sincere and respectful._
 +   _Contributors should expect to have their ideas challenged; its part of the creative process._
 +   _Learn to use the "thumbs up / thumbs down" feature of the discussion thread to indicate your thoughts._
-+   _Not all ideas can get used; David Walton will have to make those decisions. And the NCF committee keeps <u>him</u> in check._
++   _Not all ideas can get used; David Walton will have to make those decisions based on NCF committee input._
 
 #### Photographers
 
-Whether you are a professional looking to contribute back to your community, or just have an awesome camera on your phone, you are invited to contribute your photo to the project. The brainstorming process will likely yield a few requests for photographs that reinforce the theme of various sections of the website. It will be your task to either sort through your existing works or shoot new ones. Please introduce yourself on the [introduction discussion thread](https://github.com/GeekStocks/norton-cider-festival-mobile/issues/1)! The following rules surrounding submissions will apply:
+Whether you are a professional looking to contribute back to your community, or just have an awesome camera on your phone, you are invited to contribute your photo(s) to the project. The brainstorming process will likely yield a few requests for photographs that reinforce the theme of various sections of the website. It will be your task to either sort through your existing works or shoot new ones. Please introduce yourself on the [introduction discussion thread](https://github.com/GeekStocks/norton-cider-festival-mobile/issues/1)! The following rules surrounding submissions will apply:
 
 +   _<u>You</u> must be the photographer in order to contribute a photo. We are respectful of copyright and will be documenting and crediting your work on an "attributions" page of the website, not in the photo itself._
 +   _Images submitted and discussed through the [Issues tab](https://github.com/GeekStocks/norton-cider-festival-mobile/issues) can and perhaps should have a copyright notice on them since we don't control GitHub. The unaltered copy without copyright notice (used for the production website) can be submitted offline to protect your work if you desire this._
@@ -64,4 +64,4 @@ These dates are mostly guidelines at this stage and will be firmed up as time go
 
 | Version | Date | Major changes |
 | ------- | ---- | ------------- |
-| 0.1.1 | Due 12/4/2017 | *Initializing the project; installing the technology stacks* |
+| [0.1.1](http://dev.nortonciderfestival.com/0.1.1/) | 11/27/2017 | *Initialized the project; installed the main technology stacks; wrote target width example page.* |
