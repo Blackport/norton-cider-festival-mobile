@@ -54,8 +54,8 @@ module.exports = {
 
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
-    assetsSubDirectory: 'static',
-    assetsPublicPath: '/',
+    assetsSubDirectory: '', // was 'static', but empty looks nicer
+    assetsPublicPath: '', // was '/' WHICH BROKE S3 - DON'T USE IT
 
     /**
      * Source Maps
