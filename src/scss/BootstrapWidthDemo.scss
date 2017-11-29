@@ -1,3 +1,6 @@
+@import "colorDefinitions"; // all colors are declared or built here; declare first
+@import "fullHeight"; // custom classes to assist grid layout only
+
 // color the body based on BS breakpoints
 body {
     background-color: $example-xs; // default
