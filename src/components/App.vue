@@ -1,15 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <title>Target Device Width Example</title>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-
-<body>
-
-  <div class="container-fluid fullHeightViewport">
+<template>
+  <div id="app" class="container-fluid fullHeightViewport">
     <div class="row fullHeightPercentage">
       <div class="col fullHeightPercentage">
 
@@ -46,7 +36,15 @@
       </div><!-- col -->
     </div><!-- row -->
   </div><!-- container -->
+</template>
 
-</body>
+<script>
+export default {
+  name: 'app'
+}
+</script>
 
-</html>
+<style lang="scss">
+  @import './../../node_modules/bootstrap/scss/bootstrap.scss';
+  @import './../scss/sass.scss';
+</style>

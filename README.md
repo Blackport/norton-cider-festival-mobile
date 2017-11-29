@@ -66,7 +66,9 @@ These dates are mostly guidelines at this stage and will be firmed up as time go
 
 ### Versions
 
-| Version | Date | Major changes |
+| Version | Date | Change History |
 | ------- | ---- | ------------- |
 | [0.1.1](http://dev.nortonciderfestival.com/0.1.1/) | 11/27/2017 | *Initialized the project; installed the main technology stacks; wrote target width example page.* |
-| 0.1.2 | **In progress** | *Switch project stack from KnockoutJS to VueJS* |
+| [0.1.2](http://dev.nortonciderfestival.com/0.1.2/) | 11/29/2017 | *Migrated project scaffolding to [vue-cli](https://github.com/vuejs/vue-cli); VueJS replaced KnockoutJS.* |
+| 0.1.3 | **In Progress** | *Develop header for extra small width, see [milestone 1](https://github.com/GeekStocks/norton-cider-festival-mobile/milestone/1)* |
+
