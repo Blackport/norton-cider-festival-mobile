@@ -1,7 +1,7 @@
 # norton-cider-festival-mobile
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GeekStocks/norton-cider-festival-mobile/master/src/img/ncf-logo-120x120.png" alt="Norton Cider Festival logo" />
+  <img src="https://github.com/GeekStocks/norton-cider-festival-mobile/blob/master/src/assets/ncf-logo-120x120.png" alt="Norton Cider Festival logo" />
 </p>
 
 The Norton Cider Festival has commissioned a redesign of their website for their 30th annual event in 2018! The redesigned website will target mobile devices first, expand to tablets, and then finish with desktop widths. If you either live in or love Norton, Ohio you are invited to contribute! The redesign is being led by the Cider Festival's Webmaster, David Walton.
